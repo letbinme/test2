@@ -1,5 +1,5 @@
-document.body.innerHTML = "
-<div style='text-align: center'>
+document.body.innerHTML = '
+<div style="text-align: center">
 	<h1>root</h1>
 </div>
-";
+';
